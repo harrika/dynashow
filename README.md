@@ -1,8 +1,8 @@
 
-####Example usage
-create hte necesary id elements in your webpage then use and select
-as shown below.
------------------------------------------------------------------
+**Example usage**
+Create the necesary id elements in your webpage then select
+ans use them as shown below.
+
 
 ```javascript
 const { controll } = require('dynashow')
@@ -27,3 +27,5 @@ function ff3() {
 	taskcontroll.tog('three');
 }
 ```
+[dynasho on github](https://github.com/harrika/dynashow)
+
