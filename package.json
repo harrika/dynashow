@@ -1,0 +1,13 @@
+{
+  "name": "dynashow",
+  "version": "1.0.0",
+  "description": "A module for dynamic content visibility operations",
+  "main": "index.js",  
+  "keywords": [
+    "dynamic",
+    "menu",
+    "visible"
+  ],
+  "author": "Henry M. Kirya",
+  "license": "ISC"
+}
